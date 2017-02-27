@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "508159711417",
+    "firebase_url": "https://fir-authenticationexampl-2cb5e.firebaseio.com",
+    "project_id": "fir-authenticationexampl-2cb5e",
+    "storage_bucket": "fir-authenticationexampl-2cb5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508159711417:android:d8577a9b5d9d0228",
+        "android_client_info": {
+          "package_name": "com.schultebraucks.lasse.firebaseauthenticationexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508159711417-tpus4ockvsvnsr0o3712575113a4a4ol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.schultebraucks.lasse.firebaseauthenticationexample",
+            "certificate_hash": "fb827aebb8cc20f16bead438dbc21870cb990045"
+          }
+        },
+        {
+          "client_id": "508159711417-h72jisfth7qbkoe6araorb3lktijj6uq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH25ryoagre4jma3iDXO4jKSUt5t1HcKw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508159711417-h72jisfth7qbkoe6araorb3lktijj6uq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
