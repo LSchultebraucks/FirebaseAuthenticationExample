@@ -5,5 +5,5 @@ This is a repository is a topic of this
 You can contact me on
 <ul>
   <li><a href="https://twitter.com/LSchultebraucks">Twitter</a></li>
-  <li><a href="l.schultebraucks@gmail.com">E-Mail</li>
+  <li><a href="mailto:l.schultebraucks@gmail.com?subject:GitHub: Firebase Authentication Example">E-Mail</li>
 </ul>
